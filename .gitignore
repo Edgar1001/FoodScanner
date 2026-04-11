@@ -1,0 +1,15 @@
+# Expo
+.expo/
+
+# Dependencies
+node_modules/
+
+# Build files
+*.apk
+*.aab
+
+# Logs
+npm-debug.log*
+
+# OS
+.DS_Store

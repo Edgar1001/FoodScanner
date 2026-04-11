@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Background circle -->
+  <circle cx="512" cy="512" r="480" fill="#ffffff" stroke="#000000" stroke-width="24"/>
+  
+  <!-- Barcode lines -->
+  <rect x="220" y="320" width="24" height="280" fill="#000000"/>
+  <rect x="260" y="320" width="16" height="280" fill="#000000"/>
+  <rect x="296" y="320" width="32" height="280" fill="#000000"/>
+  <rect x="344" y="320" width="16" height="280" fill="#000000"/>
+  <rect x="376" y="320" width="24" height="280" fill="#000000"/>
+  <rect x="420" y="320" width="40" height="280" fill="#000000"/>
+  <rect x="480" y="320" width="16" height="280" fill="#000000"/>
+  <rect x="512" y="320" width="24" height="280" fill="#000000"/>
+  <rect x="556" y="320" width="32" height="280" fill="#000000"/>
+  <rect x="608" y="320" width="16" height="280" fill="#000000"/>
+  <rect x="640" y="320" width="24" height="280" fill="#000000"/>
+  <rect x="684" y="320" width="40" height="280" fill="#000000"/>
+  <rect x="744" y="320" width="16" height="280" fill="#000000"/>
+  <rect x="780" y="320" width="24" height="280" fill="#000000"/>
+  
+  <!-- Scanner line -->
+  <rect x="180" y="450" width="664" height="8" fill="#000000" rx="4"/>
+  
+  <!-- Magnifying glass -->
+  <circle cx="700" cy="680" r="100" fill="none" stroke="#000000" stroke-width="28"/>
+  <line x1="770" y1="750" x2="850" y2="830" stroke="#000000" stroke-width="32" stroke-linecap="round"/>
+  
+  <!-- Apple silhouette (food) -->
+  <path d="M340 700 Q340 640 390 620 Q420 610 450 630 Q460 600 480 590 Q500 600 510 630 Q540 610 570 620 Q620 640 620 700 Q620 780 480 840 Q340 780 340 700 Z" fill="#000000"/>
+  <path d="M475 590 Q485 550 520 530" fill="none" stroke="#000000" stroke-width="12" stroke-linecap="round"/>
+</svg>
